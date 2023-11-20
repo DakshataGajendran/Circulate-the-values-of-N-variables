@@ -30,7 +30,8 @@ def circulate():
 ```
 
 ## Output:
-![output](/output.png)
+![image](https://github.com/DakshataGajendran/Circulate-the-values-of-N-variables/assets/145742623/40219184-1304-473f-a4d2-4abd69dcee50)
+
 
 
 
